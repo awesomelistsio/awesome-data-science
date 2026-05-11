@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome Data Science"
+abstract: "A curated list of tools, frameworks, datasets, tutorials, research papers, educational resources, and platforms related to data science, analytics, statistics, and machine learning."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-data-science"
+keywords:
+  - data science
+  - machine learning
+  - analytics
+  - statistics
+  - artificial intelligence
+  - data visualization
+  - big data
+  - Python
+  - data engineering
+  - awesome list
