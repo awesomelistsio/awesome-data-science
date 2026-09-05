@@ -1,4 +1,4 @@
-# Awesome Data Science [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Data Science [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1115462597.svg)](https://doi.org/10.5281/zenodo.19673261)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -161,11 +161,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning)
-- [Awesome AI](https://github.com/awesomelistsio/awesome-ai)
-- [Awesome Python](https://github.com/awesomelistsio/awesome-python)
-- [Awesome Big Data](https://github.com/awesomelistsio/awesome-big-data)
-- [Awesome Scientific Computing](https://github.com/awesomelistsio/awesome-scientific-computing)
+- [Awesome Machine Learning](https://github.com/brandonhimpfen/awesome-machine-learning)
+- [Awesome AI](https://github.com/brandonhimpfen/awesome-ai)
+- [Awesome Python](https://github.com/brandonhimpfen/awesome-python)
+- [Awesome Big Data](https://github.com/brandonhimpfen/awesome-big-data)
+- [Awesome Scientific Computing](https://github.com/brandonhimpfen/awesome-scientific-computing)
 
 ## Contribute
 
